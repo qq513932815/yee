@@ -52,7 +52,7 @@ function sendSms() {
 
     // fixme 必填: 请参阅 https://ak-console.aliyun.com/ 取得您的AK信息
     $accessKeyId = "LTAIiS79c6Sltvki";
-    $accessKeySecret = "gHLw7nkpSjsixJEZKL2m9vYnqNPv2u";
+    $accessKeySecret = "***************";
 
     // fixme 必填: 短信接收号码
     $phone=$_POST["phone"];
